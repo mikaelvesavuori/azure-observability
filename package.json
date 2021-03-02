@@ -1,7 +1,7 @@
 {
   "name": "azure-observability",
   "version": "1.0.0",
-  "description": "Ingest logs from another application to a central, serverless monitoring resource in Azure",
+  "description": "Ingest logs from another application to a central, serverless monitoring resource in Azure.",
   "main": "index.js",
   "scripts": {
     "start": "sls offline",
